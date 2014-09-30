@@ -40,7 +40,7 @@
 		<wsdl:part name="parameters" element="tns-types:findResponse" />
 	</wsdl:message>
 	
-	<wsdl:portType name="SamplePortType">
+	<wsdl:portType name="FooPortType">
 		<wsdl:operation name="find">
 			<wsdl:input message="tns:findRequest"></wsdl:input>
 			<wsdl:output message="tns:findResponse"></wsdl:output>
