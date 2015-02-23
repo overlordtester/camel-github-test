@@ -46,4 +46,5 @@
 			<wsdl:output message="tns:findResponse"></wsdl:output>
 		</wsdl:operation>
 	</wsdl:portType>
+
 </wsdl:definitions>
